@@ -72,8 +72,3 @@ I'm a data analyst passionate about financial analytics and customer behavior an
 
 ---
 
-## 🔗 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/durueke-franklin
-- Portfolio: https://franklinanalytics.github.io/portfolio
-
